@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0B0D10"/>
+  <circle cx="980" cy="-40" r="380" fill="#E0A458" fill-opacity="0.08"/>
+  <circle cx="80" cy="700" r="280" fill="#E0A458" fill-opacity="0.05"/>
+  <rect x="72" y="72" width="2" height="486" fill="#E0A458"/>
+  <circle cx="73" cy="88" r="6" fill="#E0A458"/>
+  <text x="110" y="96" fill="#E0A458" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6">VA · VOYAGE APPRENANT · TEAM ACADEMY · HES-SO VALAIS</text>
+  <text x="110" y="280" fill="#EDEDED" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Un regard neuf venu de Suisse</text>
+  <text x="110" y="348" fill="#EDEDED" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">pour vos défis en Asie du Sud-Est.</text>
+  <text x="110" y="430" fill="#9AA0A6" font-family="Arial, Helvetica, sans-serif" font-size="24">Voyage apprenant 2027 · Kuala Lumpur · Singapour</text>
+  <text x="110" y="530" fill="#E0A458" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">MANDAT DE CONSEIL  ·  VISITE D’ENTREPRISE</text>
+</svg>
